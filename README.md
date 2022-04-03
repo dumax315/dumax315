@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**dumax315/dumax315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +9,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on SAT prep
+- 🌱 I’m currently learning react on free code camp
+- 👯 I’m looking to collaborate on hackathons
+- 💬 Ask me about dicord bots
+- 😄 Pronouns: they/them/any
+
+
 [![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumax315)](https://github.com/anuraghazra/github-readme-stats)
