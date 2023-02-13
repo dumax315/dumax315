@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on SAT prep
+- 🔭 I’m currently working on a chrome new tab
 - 🌱 I’m currently learning react on free code camp
 - 👯 I’m looking to collaborate on hackathons
 - 💬 Ask me about dicord bots
